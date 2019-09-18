@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Toronto",
+    "lat": 43.653963,
+    "lng": -79.387207
+  },
+  {
+    "name": "Texas, USA",
+    "lat": 31.8160381,
+    "lng": -99.5120986
+  },
+  {
+    "name": "New York, USA",
+    "lat": 40.7127281,
+    "lng": -74.0060152
+  },
+  {
+    "name": "Pennsylvania, USA",
+    "lat": 40.9699889,
+    "lng": -77.7278831
+  },
+  {
+    "name": "California, USA",
+    "lat": 36.7014631,
+    "lng": -118.7559974
+  },
+  {
+    "name": "Sweden",
+    "lat": 59.3251172,
+    "lng": 18.0710935
+  },
+  {
+    "name": "Germany",
+    "lat": 51.0834196,
+    "lng": 10.4234469
+  },
+  {
+    "name": "France",
+    "lat": 46.603354,
+    "lng": 1.8883335
+  },
+  {
+    "name": "Sri Lanka",
+    "lat": 7.5554942,
+    "lng": 80.7137847
+  },
+  {
+    "name": "Vietnam",
+    "lat": 13.2904027,
+    "lng": 108.4265113
+  }
+]
